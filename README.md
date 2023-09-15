@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Qualifications
+- B.Sc. Hons. Computer Science and Psychology
+- CISM (Expired)
+- SC 200: Microsoft Security Operations Analyst
+
+### I am skilled at
+- Python
+- Penetration Testing
+- Cyber Security Monitoring
+- Linux
+- Log collection and aggregation
+- Threat Hunting
+- Jupyter Notebooks
+- KQL
+- Microsoft Sentinel
+- QRadar
