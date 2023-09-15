@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Qualifications
-- B.Sc. Hons. Computer Science and Psychology
+- B.Sc. Hons. Computer Science
+- B.Sc. Computer Science and Psychology
 - CISM (Expired)
 - SC 200: Microsoft Security Operations Analyst
 
